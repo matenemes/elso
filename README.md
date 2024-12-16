@@ -116,7 +116,7 @@ Jobbra igazított táblázat
 
 # Képek
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png "Minion")
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
