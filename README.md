@@ -68,7 +68,7 @@ Soron belül code
 
 Behúzott kód
 
-//Néhány megjegyzés\
+//  Néhány megjegyzés\
 Gyakorlás\
 Gyakorlás\
 Gyakorlás
@@ -90,27 +90,28 @@ Szintaxis kiemelés
 
 # Táblázat
 
- **Gyümölcs**|**Mennyiség**|
-
-   alma      |  10 kg      |
-   körte     |  20 kg      |
-   banán     |  30 kg      |
+| **Gyümölcs**|**Mennyiség**|
+|------------ |-------------|
+|   alma      |  10 kg      |
+|   körte     |  20 kg      |
+|   banán     |  30 kg      |
 
 Jobbra igazított táblázat
 
-Gyümölcs Mennyiség
-alma 10 kg
-körte 20 kg
-banán 30 kg
+| **Gyümölcs**|**Mennyiség**|
+|------------:|-------------:|
+|   alma      |  10 kg      |
+|   körte     |  20 kg      |
+|   banán     |  30 kg      |
 
 
 # Linkek
 
-[Aqua](http://aqua.hu)
+* [Aqua](http://aqua.hu)
 
-[Media Markt](http://mediamarkt.hu/)
+* [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
-Automatikus link <https://arpadszki.hu>
+* Automatikus link https://arpadszki.hu
 
 
 # Képek
