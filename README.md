@@ -64,7 +64,7 @@ Számozás indítása más kezdettel:
 
 # Kód
 
-Soron belül code
+Soron belül `code`
 
 Behúzott kód
 
