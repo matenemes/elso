@@ -4,7 +4,7 @@ __Hirdetés__
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
-# h1 fejezet
+# h1 fejezet :smile:
 ## h2 fejezet
 ### h3 fejezet
 #### h4 fejezet
@@ -40,7 +40,7 @@ _Dőlt_
 
 Felsorolás
 
-- Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
+- Hozzon létre egy listát úgy, hogy egy sort kezd ezzel `+`, `-`, vagy `*`
 - A részlisták 2 szóköz behúzásával készülnek:
     - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
         - Alma
@@ -67,26 +67,26 @@ Számozás indítása más kezdettel:
 Soron belül `code`
 
 Behúzott kód
-
+```
 //  Néhány megjegyzés\
 Gyakorlás\
 Gyakorlás\
 Gyakorlás
-
+```
 
 Blokk kód
 
-
+```
 Egyszerű szöveg...
-
+```
 
 Szintaxis kiemelés
 
-
-```for``` i ```in range```(```10```):\
-```print```("Hello")\
-```print```("Vége")
-
+``` py
+for i in range(10):\
+        print("Hello")\
+print("Vége")
+```
 
 # Táblázat
 
@@ -130,7 +130,7 @@ Forgalomirányító protokollok:
 - RIP[^1]
 - OSPF[^2]
 
-[^1]Routing Information Protocol
+[^1]: Routing Information Protocol
 
-[^2]Open Shortest Path First
+[^2]: Open Shortest Path First
 
